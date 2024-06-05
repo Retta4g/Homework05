@@ -32,6 +32,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          echo Once upon a time in a faraway land
+          echo My Story was written by My Favorite Author
+          echo This whimsical tale takes you on a journey through a magical forest where every flower could talk.
+          echo Will you explore its secrets?
+              
 
